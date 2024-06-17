@@ -1,0 +1,10 @@
+com\mycompany\sportscenter\people\Doping.class
+com\mycompany\sportscenter\people\Diet.class
+com\mycompany\sportscenter\typeSport\TypeSport.class
+com\mycompany\sportscenter\role\Role.class
+com\mycompany\sportscenter\people\Person.class
+com\mycompany\sportscenter\people\Sportsman.class
+com\mycompany\sportscenter\SportsCenter.class
+com\mycompany\sportscenter\people\Category.class
+com\mycompany\sportscenter\scenario\Scenario.class
+com\mycompany\sportscenter\sportsCenter\SportCenter.class
